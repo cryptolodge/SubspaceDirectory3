@@ -31,7 +31,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
-    <Compile Include="config\config.js" />
+    <Compile Include="config\configuration.example.js" />
+    <Compile Include="config\configuration.js" />
     <Compile Include="Model\zone.js" />
     <Compile Include="Model\zoneStatistic.js" />
     <Content Include="package.json" />

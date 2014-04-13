@@ -4,7 +4,7 @@ var ZONE_LISTEN_HOST = "0.0.0.0";
 console.log("Subspace2 Directory Server");
 //load config
 console.log("Loading Configuration");
-var config = require('./config/config');
+var config = require('./config/configuration');
 //load required modules
 console.log("Loading modules");
 var binary = require("binary"); 
